@@ -12,4 +12,7 @@ In writing my code I include some error-trapping code that isn't required by the
 
 I also create while loops to continue the code until 'x' is entered. This allows for multiple input attempts and testing the branching with if statements.
 
+The folder for each examples includes two text files. Input.txt and Output.txt
+
+In the terminal the file can be run: $ python3 Example_01.py <Input.txt >Output.txt
 
