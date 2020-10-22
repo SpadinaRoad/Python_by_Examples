@@ -1,0 +1,24 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+025
+Ask the user to enter their first name. If the length
+of their first name is under five characters, ask
+them to enter their surname and join them
+together (without a space) and display the name
+in upper case. If the length of the first name is five
+or more characters, display their first name in
+lower case.
+
+
+Enter your first name: Input for first name : Bill
+
+Enter your last name: Input for last name : Smith
+
+The names combined: BILLSMITH.
+
+Enter your first name: Input for first name : Alexander
+
+You first name in lower case is alexander.
+
+Enter your first name: 

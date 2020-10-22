@@ -1,0 +1,27 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+015
+Ask the user to enter their favourite colour. If they enter “red”, “RED” or
+“Red” display the message “I like red too”, otherwise display the message
+“I don’t like [colour], I prefer red”.
+
+
+What is your favourite colour? 
+Your colour is red
+I like the colour red too.
+What is your favourite colour? 
+Your colour is Red
+I like the colour red too.
+What is your favourite colour? 
+Your colour is RED
+I like the colour red too.
+What is your favourite colour? 
+Your colour is orange
+I do not like the colour orange, I prefer red.
+What is your favourite colour? 
+Your colour is yellow
+I do not like the colour yellow, I prefer red.
+What is your favourite colour? 
+Your colour is x
+I do not like the colour x, I prefer red.

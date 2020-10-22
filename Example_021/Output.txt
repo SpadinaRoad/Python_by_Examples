@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+021
+Ask the user to enter their first name and then ask them to
+enter their surname. Join them together with a space between
+and display the name and the length of whole name.
+
+
+What is your first name? What is your last name? 
+Input for first name     : James
+Input for last name      : Piper
+Your full name : James Piper.
+
+What is your first name? What is your last name? 
+Input for first name     : Charles
+Input for last name      : Darwin
+Your full name : Charles Darwin.
+
+What is your first name? 

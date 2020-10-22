@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+006
+Ask how many slices
+of pizza the user
+started with and ask
+how many slices
+they have eaten.
+Work out how many
+slices they have left
+and display the
+answer in a user-
+friendly format.
+
+
+How many slices of pizza did you buy : How many slices of pizza did you eat : 
+You bought 4 slices of pizza.
+You ate 2 slices of pizza.
+You have 2 slices of pizza left. Enjoy!

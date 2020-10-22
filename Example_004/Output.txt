@@ -1,0 +1,14 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+004
+Ask the user to enter
+two numbers. Add
+them together and
+display the answer as
+The total is [answer]
+
+Enter a number : Enter a number : 
+The first number is  : 1
+The second number is : 2
+The answer is 3

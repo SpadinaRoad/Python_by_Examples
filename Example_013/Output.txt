@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+013
+Ask the user to enter a
+number that is under
+20. If they enter a
+number that is 20 or
+more, display the
+message “Too high”,
+otherwise display
+“Thank you”.
+
+
+Enter a number under 20: 
+The number, 22, is too high.

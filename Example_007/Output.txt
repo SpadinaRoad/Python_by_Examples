@@ -1,0 +1,11 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+007
+Ask the user for their name and their age. Add 1 to their age
+and display the output [Name] next birthday you
+will be [new age] .
+
+
+Please enter your name : How old are you : 
+James, on your next birthday, you will be 56 years old.

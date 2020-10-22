@@ -1,0 +1,10 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+002
+Ask for the user’s first name and then ask for
+their surname and display the output message
+Hello [First Name] [Surname] .
+
+
+What is your first name? What is your last name? Hello James Piper

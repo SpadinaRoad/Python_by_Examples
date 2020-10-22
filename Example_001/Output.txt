@@ -1,0 +1,9 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+001
+Ask for the user’s first name and
+display the output message
+Hello [First Name] .
+
+What is your first name? Hello James

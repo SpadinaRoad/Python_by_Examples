@@ -1,0 +1,21 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+024
+Ask the user to type in any word and display it in
+upper case.
+
+
+Enter a word: 
+Input for a word : apple
+The word in uppercase is : APPLE
+
+Enter a word: 
+Input for a word : rouge
+The word in uppercase is : ROUGE
+
+Enter a word: 
+Input for a word : wtf
+The word in uppercase is : WTF
+
+Enter a word: 

@@ -1,0 +1,27 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+020
+Ask the user to enter
+their first name and
+then display the
+length of their name.
+
+
+What is your name? 
+Input for name     : Bill
+Length of the name : 4
+
+What is your name? 
+Input for name     : Alexendar
+Length of the name : 9
+
+What is your name? 
+Input for name     : Edward
+Length of the name : 6
+
+What is your name? 
+Input for name     : Norman
+Length of the name : 6
+
+What is your name? 

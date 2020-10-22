@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+009
+Write a program
+that will ask for a
+number of days
+and then will
+show how many
+hours, minutes
+and seconds are
+in that number of
+days.
+
+
+Enter the number of days : 
+The number of days entered: 1
+There are 24 hours in 1 days.
+There are 1440 minutes in 1 days.
+There are 86400 seconds in 1 days.

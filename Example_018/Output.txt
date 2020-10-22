@@ -1,0 +1,33 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+018
+Ask the user to enter a number. If it is under 10,
+display the message “Too low”, if their number is
+between 10 and 20, display “Correct”, otherwise
+display “Too high”.
+
+
+Enter a number: 
+Input for number : 5
+Too low.
+
+Enter a number: 
+Input for number : 10
+Correct
+
+Enter a number: 
+Input for number : 15
+Correct
+
+Enter a number: 
+Input for number : 20
+Correct
+
+Enter a number: 
+Input for number : 25
+Too high.
+
+Enter a number: 
+Input for number : 0
+

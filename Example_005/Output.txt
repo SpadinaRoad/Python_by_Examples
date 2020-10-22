@@ -1,0 +1,17 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+005
+Ask the user to enter three
+numbers. Add together the first
+two numbers and then multiply
+this total by the third. Display the
+answer as The answer is
+[answer].
+
+
+Enter a number : Enter a number : Enter a number : 
+The first number is  : 1
+The second number is : 2
+The third number is  : 3
+The answer is 9

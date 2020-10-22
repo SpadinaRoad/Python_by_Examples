@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+022
+Ask the user to enter their first name and surname in lower
+case. Change the case to title case and join them together.
+Display the finished result.
+
+
+What is your first name? What is your last name? 
+Input for first name     : james
+Input for last name      : piper
+Your full name : James Piper.
+
+What is your first name? What is your last name? 
+Input for first name     : charles
+Input for last name      : darwin
+Your full name : Charles Darwin.
+
+What is your first name? 

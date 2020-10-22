@@ -1,0 +1,14 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+008
+Ask for the total price of the bill, then ask how
+many diners there are. Divide the total bill by the
+number of diners and show how much each
+person must pay.
+
+
+What is the total amount of the bill : How many diners are there : 
+The total amount of the bill is 120.00
+The number of diners is 6
+The cost per diner is 20.00

@@ -1,0 +1,29 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+019
+Ask the user to enter 1, 2 or 3. If they enter a 1, display
+the message “Thank you”, if they enter a 2, display
+“Well done”, if they enter a 3, display “Correct”. If
+they enter anything else, display “Error message”.
+
+
+Enter a 1, 2 or 3: 
+Input for number : 1
+Thank you.
+
+Enter a 1, 2 or 3: 
+Input for number : 2
+Well done.
+
+Enter a 1, 2 or 3: 
+Input for number : 3
+Correct.
+
+Enter a 1, 2 or 3: 
+Input for number : 4
+Error message.
+
+Enter a 1, 2 or 3: 
+Input for number : 0
+
