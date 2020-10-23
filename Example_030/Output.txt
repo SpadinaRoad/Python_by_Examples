@@ -1,0 +1,9 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+030
+Display pi (π) to five
+decimal places.
+
+
+The value of pi to 5 decimals : 3.14159

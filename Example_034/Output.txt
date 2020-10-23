@@ -1,0 +1,52 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+034
+Display the following message:
+
+1. Square
+2. Triangle
+Enter a Number: 
+
+If the user enters 1, then it should ask them for
+the length of one of its sides and display the
+area. If they select 2, it should ask for the base
+and height of the triangle and display the area. If
+they type in anything else, it should give them a
+suitable error message.
+
+
+Calculate Area For 
+1. Square
+2. Triangle
+Enter a Number : 
+What is the length of the square : The input for the length : 1.
+The area of the square is 1.00
+
+Calculate Area For 
+1. Square
+2. Triangle
+Enter a Number : 
+What is the base of the triangle : The input for the base : 1.
+What is the height of the triangle : The input for the height : 1.
+The area of the triangle is 0.50
+
+Calculate Area For 
+1. Square
+2. Triangle
+Enter a Number : 
+What is the length of the square : The input for the length : 2.
+The area of the square is 4.00
+
+Calculate Area For 
+1. Square
+2. Triangle
+Enter a Number : 
+What is the base of the triangle : The input for the base : 2.
+What is the height of the triangle : The input for the height : 2.
+The area of the triangle is 2.00
+
+Calculate Area For 
+1. Square
+2. Triangle
+Enter a Number : 

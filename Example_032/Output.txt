@@ -1,0 +1,23 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+032
+Ask for the radius and the depth of a cylinder
+and work out the total volume (circle
+area*depth) rounded to three decimal
+places.
+
+
+Enter the radius of a cyclinder : Enter the height of a cyclinder : The input for the radius : 1.0.
+The input for the height : 1.0.
+The volume of the cyclinder is : 3.141592653589793.
+Enter the radius of a cyclinder : Enter the height of a cyclinder : The input for the radius : 1.0.
+The input for the height : 2.0.
+The volume of the cyclinder is : 6.283185307179586.
+Enter the radius of a cyclinder : Enter the height of a cyclinder : The input for the radius : 1.0.
+The input for the height : 3.0.
+The volume of the cyclinder is : 9.42477796076938.
+Enter the radius of a cyclinder : Enter the height of a cyclinder : The input for the radius : 1.0.
+The input for the height : 5.5.
+The volume of the cyclinder is : 17.27875959474386.
+Enter the radius of a cyclinder : 

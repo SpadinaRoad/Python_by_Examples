@@ -1,0 +1,30 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+033
+Ask the user to enter two numbers.
+Use whole number division to divide
+the first number by the second and
+also work out the remainder and
+display the answer in a user-friendly
+way (e.g. if they enter 7 and 2 display
+“7 divided by 2 is 3 with 1
+remaining”).
+
+
+Enter an integer : Enter a second integer : 
+The input for number 1 : 21.
+The input for number 2 : 4.
+21 divided by 4 is 5 with 1 remaining.
+
+Enter an integer : Enter a second integer : 
+The input for number 1 : 10.
+The input for number 2 : 2.
+10 divided by 2 is 5 with 0 remaining.
+
+Enter an integer : Enter a second integer : 
+The input for number 1 : 25.
+The input for number 2 : 3.
+25 divided by 3 is 8 with 1 remaining.
+
+Enter an integer : 

@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+027
+Ask the user to enter a
+number with lots of
+decimal places. Multiply
+this number by two and
+display the answer.
+
+
+Enter a number with lots of decimals places: The input for a number : 123.456789.
+Multiplied by two : 246.913578.
+Enter a number with lots of decimals places: The input for a number : 456.321987.
+Multiplied by two : 912.643974.
+Enter a number with lots of decimals places: 

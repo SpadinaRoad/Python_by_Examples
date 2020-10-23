@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+029
+Ask the user to enter an integer that is over 500. Work
+out the square root of that number and display it to two
+decimal places.
+
+
+Enter an integer over 500 : The input for a number : 10000.
+The square root is : 100.00.
+Enter an integer over 500 : The input for a number : 2500.
+The square root is : 50.00.
+Enter an integer over 500 : The input for a number : 746.
+The square root is : 27.31.
+Enter an integer over 500 : 
