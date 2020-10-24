@@ -1,0 +1,23 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+044
+Ask how many people the user wants to invite to a party. If they enter a number below
+10, ask for the names and after each name display “[name] has been invited”. If they
+enter a number which is 10 or higher, display the message “Too many people”.
+
+
+How many to invite to your party? 
+The input for a number : 10.
+Too many people
+
+How many to invite to your party? 
+The input for a number : 5.
+What is the person's name? Norman has been invited.
+What is the person's name? Ann has been invited.
+What is the person's name? Bruce has been invited.
+What is the person's name? Sally has been invited.
+What is the person's name? Allen has been invited.
+
+How many to invite to your party? 
+The input for a number : x.

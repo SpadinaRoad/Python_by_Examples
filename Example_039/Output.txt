@@ -1,0 +1,37 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+039
+Ask the user to enter a number between 1
+and 12 and then display the times table for
+that number.
+
+
+Enter a number between 1 and 12 : 
+The input for a number : 5.
+1 x 5 = 5
+
+2 x 5 = 10
+
+3 x 5 = 15
+
+4 x 5 = 20
+
+5 x 5 = 25
+
+6 x 5 = 30
+
+7 x 5 = 35
+
+8 x 5 = 40
+
+9 x 5 = 45
+
+10 x 5 = 50
+
+11 x 5 = 55
+
+12 x 5 = 60
+
+Enter a number between 1 and 12 : 
+The input for a number : x.

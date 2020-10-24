@@ -1,0 +1,44 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+043
+Ask which direction the user wants to count (up or down). If they select up, then ask
+them for the top number and then count from 1 to that number. If they select down, ask
+them to enter a number below 20 and then count down from 20 to that number. If they
+entered something other than up or down, display the message “I don’t understand”.
+
+
+Do you want to count up or down (U/D)? 
+The input for direction : u.
+Enter a number : 
+The input for a num : 5.
+1
+2
+3
+4
+5
+Do you want to count up or down (U/D)? 
+The input for direction : d.
+Enter a number below 20 : 
+The input for a num : 5.
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+Do you want to count up or down (U/D)? 
+The input for direction : t.
+I don’t understand
+Do you want to count up or down (U/D)? 
+The input for direction : x.

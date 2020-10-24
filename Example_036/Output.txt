@@ -1,0 +1,29 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+036
+Alter program 035 so that it will ask the user to enter their
+name and a number and then display their name that
+number of times.
+
+
+Enter your name : 
+The input for your name : Norman.
+How many times to display your name : 
+The input for number : 2.
+NormanNorman
+
+Enter your name : 
+The input for your name : Bruce.
+How many times to display your name : 
+The input for number : 3.
+BruceBruceBruce
+
+Enter your name : 
+The input for your name : James.
+How many times to display your name : 
+The input for number : 5.
+JamesJamesJamesJamesJames
+
+Enter your name : 
+The input for your name : x.

@@ -1,20 +1,27 @@
 
 Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
 
-035
-Ask the user to enter
-their name and then
-display their name
-three times.
+037
+Ask the user to enter their name and display each letter in
+their name on a separate line.
 
 
 Enter your name : 
 The input for your name : Norman.
-NormanNormanNorman
+N
+o
+r
+m
+a
+n
 
 Enter your name : 
 The input for your name : Bruce.
-BruceBruceBruce
+B
+r
+u
+c
+e
 
 Enter your name : 
 The input for your name : x.

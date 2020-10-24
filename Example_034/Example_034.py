@@ -27,8 +27,6 @@ suitable error message.
 
 print(__doc__)
 
-from math import pi
-
 choice = ''
 while choice != 'x' : 
     print('Calculate Area For ')

@@ -1,0 +1,56 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+038
+Change program
+037 to also ask for a
+number. Display
+their name (one
+letter at a time on
+each line) and
+repeat this for the
+number of times
+they entered.
+
+
+Enter your name : 
+The input for your name : Norman.
+Enter a number : 
+The input for a number : 5.
+N
+o
+r
+m
+a
+n
+
+N
+o
+r
+m
+a
+n
+
+N
+o
+r
+m
+a
+n
+
+N
+o
+r
+m
+a
+n
+
+N
+o
+r
+m
+a
+n
+
+Enter your name : 
+The input for your name : x.

@@ -23,8 +23,6 @@ remaining”).
 
 print(__doc__)
 
-from math import pi
-
 int_a = ''
 while int_a != 'x' : 
     int_a = input('Enter an integer : ')

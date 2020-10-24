@@ -1,0 +1,44 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+041
+Ask the user to enter their
+name and a number. If the
+number is less than 10, then
+display their name that
+number of times; otherwise
+display the message “Too
+high” three times.
+
+
+Enter your name : 
+The input for a name : Bruce.
+
+Enter a number : 
+The input for a number : 35.
+
+Too high.
+
+Too high.
+
+Too high.
+
+Enter your name : 
+The input for a name : Allen.
+
+Enter a number : 
+The input for a number : 5.
+
+Allen
+
+Allen
+
+Allen
+
+Allen
+
+Allen
+
+Enter your name : 
+The input for a name : x.
+
