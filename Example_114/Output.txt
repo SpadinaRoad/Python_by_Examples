@@ -1,0 +1,22 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+114
+Using the Books.csv file, ask the user
+to enter a starting year and an end
+year. Display all books released
+between those two years.
+
+
+Enter the start year : The input for the start year : 1000
+
+Enter the end year : The input for the end year : 3000
+
+"To Kill A Mockingbird" by Harper Lee published in 1960
+"A Brief History of Time" by Stephen Hawking published in 1988
+"The Great Gatsby" by F. Scott Fitzgerald published in 1922
+"The Man Who Mistook His Wife for a Hat" by Oliver Sacks published in 1985
+"Pride and Prejudice" by Jane Austen published in 1813
+"A Title" by Bruce Bethune published in 2013
+"Another Title" by Bruce Bethune published in 2012
+

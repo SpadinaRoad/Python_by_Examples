@@ -1,0 +1,13 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+071
+Create a list of two sports. Ask the
+user what their favourite sport is and
+add this to the end of the list. Sort the
+list and display it.
+
+
+Here is the list: ['curling', 'football']
+What is your favourite sport? 
+Here is the list: ['curling', 'football', 'hockey']

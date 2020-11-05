@@ -1,0 +1,15 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+Page 51 example
+
+
+Menu
+A. Triangle
+B. Square
+C. Pentagon
+D. Hexagon
+E. Circle
+F. Nested
+
+Enter choice: 

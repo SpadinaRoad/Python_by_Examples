@@ -1,0 +1,44 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+057
+Update
+program 056
+so that it
+tells the
+user if they
+are too high
+or too low
+before they
+pick again.
+
+
+Enter a number : Your choice, 1, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 2, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 3, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 4, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 5, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 6, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 7, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 8, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice, 9, is not a match.
+Your choice is too low.
+
+Enter a number : Your choice matches: 10
+

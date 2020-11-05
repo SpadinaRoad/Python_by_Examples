@@ -1,0 +1,32 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+099
+Change your previous program
+to ask the user which row they
+want displayed. Display that
+row. Ask which column in that
+row they want displayed and
+display the value that is held
+there. Ask the user if they want
+to change the value. If they do,
+ask for a new value and change
+the data. Finally, display the
+whole row again.
+    
+
+[[2, 5, 8], [3, 7, 4], [1, 6, 9], [4, 2, 0]]
+
+Enter a row number : The input for the row : 2
+
+The values at row 2 are : [1, 6, 9]
+Enter a column number : The inpurt for the column 1
+
+The value at row 2 and column 1 is 6
+
+Do you want to change the value (y/n)? The input for changing value is y.
+
+Enter the new number : The input for a number: 19 
+
+The array : [[2, 5, 8], [3, 7, 4], [1, 19, 9], [4, 2, 0]]
+

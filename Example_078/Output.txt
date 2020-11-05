@@ -1,0 +1,32 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+078
+Create a list containing the titles of
+four TV programmes and display
+them on separate lines. Ask the
+user to enter another show and a
+position they want it inserted into
+the list. Display the list again,
+showing all five TV programmes in
+their new positions.
+
+
+The list of TV shows : 
+---------------------- 
+The National
+Mr. Dress-up
+Schitt's Creek
+Hockey Night In Canada
+
+Enter a TV show: The input for a TV show The Tommy Hunter Show
+
+Enter a number to insert the show: The input for position is 2
+
+The new list of TV shows.
+-------------------------
+The National
+Mr. Dress-up
+The Tommy Hunter Show
+Schitt's Creek
+Hockey Night In Canada

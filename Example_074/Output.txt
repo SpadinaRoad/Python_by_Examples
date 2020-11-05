@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+074
+Enter a list of ten colours.
+Ask the user for a starting
+number between 0 and 4
+and an end number
+between 5 and 9. Display
+the list for those colours
+between the start and end
+numbers the user input.
+
+
+The colours : ['yellow', 'orange', 'red', 'purple', 'blue', 'green', 'brown', 'black', 'mauve', 'rose']
+Enter a starting number (0-4) : The input for the starting number : 2
+
+Enter an ending number (5-9) : The input for the ending number : 8
+
+The subset of colours: ['red', 'purple', 'blue', 'green', 'brown', 'black']

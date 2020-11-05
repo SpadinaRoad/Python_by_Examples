@@ -1,0 +1,35 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+077
+Change program 076 so that once the user has completed their list of names, display the
+full list and ask them to type in one of the names on the list. Display the position of that
+name in the list. Ask the user if they still want that person to come to the party. If they
+answer “no”, delete that entry from the list and display the list again.
+
+
+Enter the name the person to invite : The input for invitee: James
+
+Enter the name the person to invite : The input for invitee: Bruce
+
+Enter the name the person to invite : The input for invitee: Allen
+
+Do you want to invite another person? (y/n) 
+Adding another name to the list.
+Enter the name the person to invite : The input for invitee: Norman
+
+Do you want to invite another person? (y/n) 
+Adding another name to the list.
+Enter the name the person to invite : The input for invitee: William
+
+Do you want to invite another person? (y/n) 
+Stopped adding names to the party.
+The list of invitees: ['James', 'Bruce', 'Allen', 'Norman', 'William']
+The number of invitees: 5
+
+Enter a name from a list? The input for a name William
+Do you William to come to the party (y/n)? The input for inviting n
+
+William removed from the list.
+The list of invitees: ['James', 'Bruce', 'Allen', 'Norman']
+The number of invitees: 4

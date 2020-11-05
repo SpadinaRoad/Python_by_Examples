@@ -1,0 +1,22 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+113
+Using the Books.csv file, ask the user how many records
+they want to add to the list and then allow them to add
+that many. After all the data has been added, ask for an
+author and display all the books in the list by that author.
+If there are no books by that author in the list, display a
+suitable message.
+
+
+How many books to add to the list: The input for the number of books: 1.
+
+Enter a book title : The input for a title : Another Title
+ENter the author's name : The input for the author : Bruce Bethune
+Enter the year published : The inpur for the year published : 2012
+
+Choose an author : The input for author choice : Bruce Bethune
+
+A Title, Bruce Bethune, 2013
+Another Title, Bruce Bethune, 2012

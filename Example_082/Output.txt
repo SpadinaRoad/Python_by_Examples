@@ -1,0 +1,15 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+082
+Show the user a line of text from your favourite poem
+and ask for a starting and ending point. Display the
+characters between those two points.
+
+
+Here is a line of text from a poem.
+Enter a starting postion: The input for the start : 0
+
+Enter an end position: The input for the end : 22
+
+A slice of the poem : Here is a line of text

@@ -1,0 +1,15 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+089
+Create an array which will store a list of integers.
+Generate five random numbers and store them in
+the array. Display the array (showing each item on
+a separate line).
+
+
+357
+380
+304
+137
+116

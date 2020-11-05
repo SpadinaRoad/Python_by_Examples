@@ -1,0 +1,14 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+084
+Ask the user to type in their
+postcode. Display the first
+two letters in uppercase.
+
+I don't know UK postcodes, using Canadian version: A1B 2C3
+
+Enter your postal code : The input for a postal code: a1b 2c3
+
+Postal Code: A1B 2C3
+

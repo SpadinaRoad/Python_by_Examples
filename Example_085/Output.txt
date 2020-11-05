@@ -1,0 +1,11 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+085
+Ask the user to type in their name
+and then tell them how many vowels
+are in their name.
+
+
+Enter your name: The input for a name: Allen MacKenzie
+There are 6 vowels in your name.

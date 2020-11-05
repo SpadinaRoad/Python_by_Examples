@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+096
+Create the following using a
+simple 2D list using the
+standard Python indexing:
+
+    2   5   8   
+    3   7   4   
+    1   6   9
+    4   2   0   
+    
+
+[[2, 5, 8], [3, 7, 4], [1, 6, 9], [4, 2, 0]]
+

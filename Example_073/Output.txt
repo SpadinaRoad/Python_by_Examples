@@ -1,0 +1,39 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+073
+Ask the user to
+enter four of their
+favourite foods
+and store them in
+a dictionary so
+that they are
+indexed with
+numbers starting
+from 1. Display
+the dictionary in
+full, showing the
+index number
+and the item. Ask
+them which they
+want to get rid of
+and remove it
+from the list. Sort
+the remaining
+data and display
+the dictionary.
+
+
+Enter a favourite food: 
+Input for food : tacos
+Enter a favourite food: 
+Input for food : lemon
+Enter a favourite food: 
+Input for food : pizza
+Enter a favourite food: 
+Input for food : apple
+
+Here is the dictionary: {1: 'tacos', 2: 'lemon', 3: 'pizza', 4: 'apple'}
+What item do you want to remove? Enter the number: Input for number to remove: 2
+
+['apple', 'pizza', 'tacos']

@@ -1,0 +1,27 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+076
+Ask the user to enter the names of three people they want to
+invite to a party and store them in a list. After they have entered
+all three names, ask them if they want to add another. If they do,
+allow them to add more names until they answer “no”. When
+they answer “no”, display how many people they have invited to
+the party.
+
+
+Enter the name the person to invite : The input for invitee: James
+
+Enter the name the person to invite : The input for invitee: Bruce
+
+Enter the name the person to invite : The input for invitee: Allen
+
+Do you want to invite another person? (y/n) 
+Enter the name the person to invite : The input for invitee: Norman
+
+Do you want to invite another person? (y/n) 
+Enter the name the person to invite : The input for invitee: William
+
+Do you want to invite another person? (y/n) 
+The list of invitees: ['James', 'Bruce', 'Allen', 'Norman', 'William']
+The number of invitees: 5

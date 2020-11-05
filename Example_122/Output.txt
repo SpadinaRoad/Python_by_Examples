@@ -1,0 +1,72 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+122
+Create the following menu:
+    A. Add to file
+    B. View all records
+    X. Quit program
+    Enter your selection : 
+    
+If the user selects 1, allow them to add to a file
+called Salaries.csv which will store their name
+and salary. If they select 2 it should display all
+records in the Salaries.csv file. If they select 3 it
+should stop the program. If they select an
+incorrect option they should see an error
+message. They should keep returning to the
+menu until they select option 3.    
+    
+
+Main Menu
+A. Add to file
+B. View all records
+X. Quit program
+
+Enter your selection : The input for menu choice : a
+
+Enter a name : The input for a name is Neil
+
+Enter the salary : The input for a salary 123456
+
+Main Menu
+A. Add to file
+B. View all records
+X. Quit program
+
+Enter your selection : The input for menu choice : a
+
+Enter a name : The input for a name is Allen
+
+Enter the salary : The input for a salary 243900
+
+Main Menu
+A. Add to file
+B. View all records
+X. Quit program
+
+Enter your selection : The input for menu choice : a
+
+Enter a name : The input for a name is James
+
+Enter the salary : The input for a salary 345000
+
+Main Menu
+A. Add to file
+B. View all records
+X. Quit program
+
+Enter your selection : The input for menu choice : b
+
+No. 1. Joan,  1234
+No. 2. Neil, 123456
+No. 3. Allen, 243900
+No. 4. James, 345000
+
+Main Menu
+A. Add to file
+B. View all records
+X. Quit program
+
+Enter your selection : The input for menu choice : x
+

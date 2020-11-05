@@ -1,0 +1,31 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+094
+Display an array of five
+numbers. Ask the user to
+select one of the numbers.
+Once they have selected a
+number, display the
+position of that item in the
+array. If they enter
+something that is not in
+the array, ask them to try
+again until they select a
+relevant item.
+
+
+List to choose from : [3, 5, 3, 6, 10]
+
+Select a number from the list: The input for a selected number: 1
+
+You're selection is not in the list.
+Try another selection.
+Select a number from the list: The input for a selected number: 2
+
+You're selection is not in the list.
+Try another selection.
+Select a number from the list: The input for a selected number: 3
+
+The selected number is at index: 0
+

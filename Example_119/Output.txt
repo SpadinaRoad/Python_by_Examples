@@ -1,0 +1,59 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+119
+Define a subprogram
+that will ask the user to
+pick a low and a high
+number, and then
+generate a random
+number between those
+two values and store it in
+a variable called
+“comp_num”.
+
+Define another
+subprogram that will
+give the instruction “I am
+thinking of a number...”
+and then ask the user to
+guess the number they
+are thinking of.
+
+Define a third
+subprogram that will
+check to see if the
+comp_num is the same
+as the user’s guess. If it
+is, it should display the
+message “Correct, you
+win”, otherwise it should
+keep looping, telling the
+user if they are too low or
+too high and asking them
+to guess again until they
+guess correctly.
+
+
+Enter a low number: The input for the low number: 1
+Enter a higher number: The input for the high number: 5
+
+The random number is 3
+
+I am thinking of a number...
+Enter your guess: The input for a guess 1
+
+Your guess is too low.
+Enter a new guess : The input for a guess: 5
+
+Your guess is too high.
+Enter a new guess : The input for a guess: 2
+
+Your guess is too low.
+Enter a new guess : The input for a guess: 4
+
+Your guess is too high.
+Enter a new guess : The input for a guess: 3
+
+Correct, you win.
+

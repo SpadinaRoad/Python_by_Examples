@@ -1,0 +1,39 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+047
+Ask the user to enter a
+number and then enter
+another number. Add these
+two numbers together and
+then ask if they want to add
+another number. If they
+enter “y", ask them to enter
+another number and keep
+adding numbers until they
+do not answer “y”. Once the
+loop has stopped, display
+the total.
+
+
+Enter a number : 
+The input for a number : 1.
+
+Enter another number : 
+The input for another number : 2.
+
+Do you want to add another number? (y/n)
+Enter another number : 
+The input for another number : 3.
+
+Do you want to add another number? (y/n)
+Enter another number : 
+The input for another number : 4.
+
+Do you want to add another number? (y/n)
+Enter another number : 
+The input for another number : 5.
+
+Do you want to add another number? (y/n)
+The total of is 15
+

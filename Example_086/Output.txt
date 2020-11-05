@@ -1,0 +1,26 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+086
+Ask the user to enter a new password. Ask
+them to enter it again. If the two passwords
+match, display “Thank you”. If the letters are
+correct but in the wrong case, display the
+message “They must be in the same case”,
+otherwise display the message “Incorrect”.
+
+
+Enter a new password : The input for password : asdf
+Re-enter the password : The input for the re-entry : asdf
+Thank you.
+
+Enter a new password : The input for password : asdf
+Re-enter the password : The input for the re-entry : ASDF
+The passwords must be in the same case.
+
+Enter a new password : The input for password : asdf
+Re-enter the password : The input for the re-entry : asf
+Incorrect
+
+Enter a new password : The input for password : x
+

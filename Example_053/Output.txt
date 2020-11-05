@@ -1,0 +1,12 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+053
+Display a
+random
+fruit from
+a list of
+five fruits.
+
+
+A random fruit: peaches

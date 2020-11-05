@@ -1,0 +1,11 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+081
+Ask the user to type in their favourite school subject.
+Display it with “-” after each letter, e.g. S-p-a-n-i-s-h-.
+
+
+What was your favourite school subject : The input for first name : Mathematics
+
+M-a-t-h-e-m-a-t-i-c-s-

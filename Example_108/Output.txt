@@ -1,0 +1,18 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+108
+Open the Names.txt file. Ask the user to input a
+new name. Add this to the end of the file and
+display the entire file.
+    
+
+Enter a name: The input for name: Jimmy
+
+Bruce
+Allen
+James
+Angus
+William
+Jimmy
+

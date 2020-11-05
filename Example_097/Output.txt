@@ -1,0 +1,15 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+097
+Using the 2D list from program 096, ask the user to
+select a row and a column and display that value.
+    
+
+[[2, 5, 8], [3, 7, 4], [1, 6, 9], [4, 2, 0]]
+
+Enter a row number : The input for the row : 1
+
+Enter the column : The input for a column : 2
+
+The value at row 1 and column 2 is: 4

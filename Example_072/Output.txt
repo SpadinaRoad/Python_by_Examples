@@ -1,0 +1,12 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+072
+Create a list of six school subjects. Ask the user which of these
+subjects they don’t like. Delete the subject they have chosen from the
+list before you display the list again.
+
+
+The subjects before : ['math', 'physics', 'French', 'English', 'chemistry']
+What course don't you like? 
+The subjects after : ['math', 'physics', 'French', 'chemistry']

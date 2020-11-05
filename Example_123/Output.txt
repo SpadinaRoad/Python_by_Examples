@@ -1,0 +1,76 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+123
+123
+In Python, it is not technically possible to directly
+delete a record from a .csv file. Instead you need
+to save the file to a temporary list in Python,
+make the changes to the list and then overwrite
+the original file with the temporary list.
+Change the previous program to allow you to do
+this. Your menu should now look like this:
+
+Create the following menu:
+    A. Add to file
+    B. View all records
+    C. Delete a record
+    X. Quit program
+    Enter your selection : 
+    
+
+Main Menu
+A. Add to file
+B. View all records
+C. Delete a record
+X. Quit program
+
+Enter your selection : The input for menu choice : a
+
+Enter a name : The input for a name is Sally
+
+Enter the salary : The input for a salary 123456
+
+Main Menu
+A. Add to file
+B. View all records
+C. Delete a record
+X. Quit program
+
+Enter your selection : The input for menu choice : b
+
+No. 1. Joan, 1234
+No. 2. Neil, 123456
+No. 3. Allen, 243900
+No. 4. James, 345000
+No. 5. Sally, 123456
+
+Main Menu
+A. Add to file
+B. View all records
+C. Delete a record
+X. Quit program
+
+Enter your selection : The input for menu choice : c
+
+No. 1. Joan, 1234
+No. 2. Neil, 123456
+No. 3. Allen, 243900
+No. 4. James, 345000
+No. 5. Sally, 123456
+
+Enter the index number for the record to delete: The input for the index: 5
+
+No. 1. Joan, 1234
+No. 2. Neil, 123456
+No. 3. Allen, 243900
+No. 4. James, 345000
+
+Main Menu
+A. Add to file
+B. View all records
+C. Delete a record
+X. Quit program
+
+Enter your selection : The input for menu choice : x
+

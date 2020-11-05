@@ -1,0 +1,46 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+116
+Import the data from the Books.csv file into a list. Display the
+list to the user. Ask them to select which row from the list
+they want to delete and remove it from the list. Ask the user
+which data they want to change and allow them to change it.
+Write the data back to the original .csv file, overwriting the
+existing data with the amended data.
+
+
+Row 1: ['To Kill A Mockingbird', 'Harper Lee', '1960']
+Row 2: ['A Brief History of Time', 'Stephen Hawking', '1988']
+Row 3: ['The Great Gatsby', 'F. Scott Fitzgerald', '1922']
+Row 4: ['The Man Who Mistook His Wife for a Hat', 'Oliver Sacks', '1985']
+Row 5: ['Pride and Prejudice', 'Jane Austen', '1813']
+Row 6: ['A Title', 'Bruce Bethune', '2013']
+Row 7: ['Another Title', 'Bruce Bethune', '2012']
+
+Enter a row to delete: The input for row to delete: 1
+The row was deleted.
+
+For the row 1 the value is : ['A Brief History of Time', 'Stephen Hawking', '1988']
+For the row 2 the value is : ['The Great Gatsby', 'F. Scott Fitzgerald', '1922']
+For the row 3 the value is : ['The Man Who Mistook His Wife for a Hat', 'Oliver Sacks', '1985']
+For the row 4 the value is : ['Pride and Prejudice', 'Jane Austen', '1813']
+For the row 5 the value is : ['A Title', 'Bruce Bethune', '2013']
+For the row 6 the value is : ['Another Title', 'Bruce Bethune', '2012']
+
+Enter a row to change: The input for the row to change: 2
+The row to change: ['The Great Gatsby', 'F. Scott Fitzgerald', '1922']
+
+Change the title (y/n)? Enter new title: The input for title The Great Bethune
+
+Change the author (y/n)? Change the year (y/n)? Enter year: The input for year 1929
+
+For the row 1 the value is : ['A Brief History of Time', 'Stephen Hawking', '1988']
+For the row 2 the value is : ['The Great Bethune', 'F. Scott Fitzgerald', '1929']
+For the row 3 the value is : ['The Man Who Mistook His Wife for a Hat', 'Oliver Sacks', '1985']
+For the row 4 the value is : ['Pride and Prejudice', 'Jane Austen', '1813']
+For the row 5 the value is : ['A Title', 'Bruce Bethune', '2013']
+For the row 6 the value is : ['Another Title', 'Bruce Bethune', '2012']
+
+The csv file was updated.
+

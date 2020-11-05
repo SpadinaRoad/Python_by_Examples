@@ -1,0 +1,20 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+100
+Create the following using a 2D dictionary showing
+the sales each person has made in the different
+geographical regions:
+
+         N       S       E       W
+John    3056    8463    8441    2694
+Tom     4832    6786    4737    3612
+Anne    5239    4802    5820    1859
+Fiona   3904    3645    8821    2451
+    
+
+{'John': {'n': 3056, 's': 8463, 'e': 8441, 'w': 2694}, 'Tom': {'n': 4832, 's': 6786, 'e': 4737, 'w': 3612}, 'Anne': {'n': 4128, 's': 4802, 'e': 5820, 'w': 1859}, 'Fiona': {'n': 3904, 's': 3645, 'e': 8821, 'w': 2451}}
+
+Sales by John : {'n': 3056, 's': 8463, 'e': 8441, 'w': 2694}
+Sales by John in e: 8441
+

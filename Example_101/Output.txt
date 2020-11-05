@@ -1,0 +1,27 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+101
+Using program 100, ask the user for a name and a region. Display the relevant data. Ask
+the user for the name and region of data they want to change and allow them to make
+the alteration to the sales figure. Display the sales for all regions for the name they
+choose.
+
+         N       S       E       W
+John    3056    8463    8441    2694
+Tom     4832    6786    4737    3612
+Anne    5239    4802    5820    1859
+Fiona   3904    3645    8821    2451
+    
+
+{'John': {'n': 3056, 's': 8463, 'e': 8441, 'w': 2694}, 'Tom': {'n': 4832, 's': 6786, 'e': 4737, 'w': 3612}, 'Anne': {'n': 4128, 's': 4802, 'e': 5820, 'w': 1859}, 'Fiona': {'n': 3904, 's': 3645, 'e': 8821, 'w': 2451}}
+
+Enter a name : The input for a name Tom
+
+Enter a region : The input for a region s
+
+Sales for Tom in region s : 6786
+
+Enter new sales number: The input for sales number: 4939
+
+The sales for Tom : {'n': 4832, 's': 4939, 'e': 4737, 'w': 3612}

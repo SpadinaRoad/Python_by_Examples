@@ -1,0 +1,72 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+054
+Randomly choose either heads or tails (“h” or “t”). Ask
+the user to make their choice. If their choice is the same
+as the randomly selected value, display the message
+“You win”, otherwise display “Bad luck”. At the end, tell
+the user if the computer selected heads or tails.
+
+
+Choose heads or tails (h/t) : 
+You win.
+You chose          : tails
+The computer chose : tails
+The score: Computer 0 Me 1
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : tails
+The computer chose : heads
+The score: Computer 1 Me 1
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : tails
+The computer chose : heads
+The score: Computer 2 Me 1
+
+Choose heads or tails (h/t) : 
+You win.
+You chose          : tails
+The computer chose : tails
+The score: Computer 2 Me 2
+
+Choose heads or tails (h/t) : 
+You win.
+You chose          : tails
+The computer chose : tails
+The score: Computer 2 Me 3
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : heads
+The computer chose : tails
+The score: Computer 3 Me 3
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : heads
+The computer chose : tails
+The score: Computer 4 Me 3
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : heads
+The computer chose : tails
+The score: Computer 5 Me 3
+
+Choose heads or tails (h/t) : 
+You win.
+You chose          : heads
+The computer chose : heads
+The score: Computer 5 Me 4
+
+Choose heads or tails (h/t) : 
+Bad luck
+You chose          : heads
+The computer chose : tails
+The score: Computer 6 Me 4
+
+Choose heads or tails (h/t) : 

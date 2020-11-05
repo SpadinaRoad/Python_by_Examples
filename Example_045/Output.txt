@@ -1,0 +1,30 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+045
+Set the total to 0 to start with. While the total is 50 or less, ask
+the user to input a number. Add that number to the total and
+print the message “The total is... [total]”. Stop the loop when
+the total is over 50 .
+
+
+Enter a number : 
+The input for a number : 12.
+The total is 12
+
+Enter a number : 
+The input for a number : 15.
+The total is 27
+
+Enter a number : 
+The input for a number : 4.
+The total is 31
+
+Enter a number : 
+The input for a number : 6.
+The total is 37
+
+Enter a number : 
+The input for a number : 33.
+The total is 70
+

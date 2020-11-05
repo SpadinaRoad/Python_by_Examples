@@ -1,0 +1,11 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+069
+Create a tuple containing the names of five countries and display the whole tuple. Ask
+the user to enter one of the countries that have been shown to them and then display
+the index number (i.e. position in the list) of that item in the tuple.
+
+
+The countries are: ('Canada', 'Scotland', 'Sweden', 'Greece', 'France')
+Pick a country : The country Greece is at index : 3

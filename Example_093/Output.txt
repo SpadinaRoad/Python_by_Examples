@@ -1,0 +1,33 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+093
+Ask the user to enter five
+numbers. Sort them into order
+and present them to the user.
+Ask them to select one of the
+numbers. Remove it from the
+original array and save it in a
+new array.
+
+
+Enter an integer: The input for a number: 43
+
+Enter an integer: The input for a number: 12
+
+Enter an integer: The input for a number: 99
+
+Enter an integer: The input for a number: 66
+
+Enter an integer: The input for a number: 19
+
+<class 'array.array'>
+Type after applying sorted function.
+<class 'list'>
+The numbers entered: 12, 19, 43, 66, 99
+
+Enter a number from the list: The input for the number: 66
+
+The array as adjusted : [12, 19, 43, 99]
+The selected array    : [66]
+

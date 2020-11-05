@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+115
+Using the Books.csv file, display the data in
+the file along with the row number of each.
+
+
+Line number: 1. Content ['To Kill A Mockingbird', 'Harper Lee', '1960']
+Line number: 2. Content ['A Brief History of Time', 'Stephen Hawking', '1988']
+Line number: 3. Content ['The Great Gatsby', 'F. Scott Fitzgerald', '1922']
+Line number: 4. Content ['The Man Who Mistook His Wife for a Hat', 'Oliver Sacks', '1985']
+Line number: 5. Content ['Pride and Prejudice', 'Jane Austen', '1813']
+Line number: 6. Content ['A Title', 'Bruce Bethune', '2013']
+Line number: 7. Content ['Another Title', 'Bruce Bethune', '2012']
+

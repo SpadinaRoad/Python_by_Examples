@@ -1,0 +1,16 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+098
+Using the 2D list from program 096, ask the user
+which row they would like displayed and display
+just that row. Ask them to enter a new value and
+add it to the end of the row and display the row
+again.
+    
+
+[[2, 5, 8], [3, 7, 4], [1, 6, 9], [4, 2, 0]]
+
+Enter a row number : The input for the row : 1
+
+The values at row 1 are : [3, 7, 4]

@@ -1,0 +1,39 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+104
+After gathering the four names, ages and shoe sizes, ask the
+user to enter the name of the person they want to remove from
+the list. Delete this row from the data and display the other rows
+on separate lines.
+    
+
+Enter a name : The input for a name : Bruce
+Enter an age : The input for an age : 44
+Enter a shoe size : The input for a shoe size : 12
+
+Enter a name : The input for a name : Allen
+Enter an age : The input for an age : 5
+Enter a shoe size : The input for a shoe size : 2
+
+Enter a name : The input for a name : Joan
+Enter an age : The input for an age : 89
+Enter a shoe size : The input for a shoe size : 6
+
+Enter a name : The input for a name : Kate
+Enter an age : The input for an age : 22
+Enter a shoe size : The input for a shoe size : 7
+
+The list of data: 
+Bruce : {'age': '44', 'size': '12'} 
+Allen : {'age': '5', 'size': '2'} 
+Joan : {'age': '89', 'size': '6'} 
+Kate : {'age': '22', 'size': '7'} 
+
+Enter a name to remove : The input for name: Kate
+
+The list of data: 
+Bruce : {'age': '44', 'size': '12'} 
+Allen : {'age': '5', 'size': '2'} 
+Joan : {'age': '89', 'size': '6'} 
+

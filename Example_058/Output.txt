@@ -1,0 +1,33 @@
+
+Python by Example: Learning to Program in 150 Challenges by Nichola Lacey
+
+058
+Make a maths quiz that asks five questions by randomly
+generating two whole numbers to make the question
+(e.g. [num1] + [num2]). Ask the user to enter the
+answer. If they get it right add a point to their score. At
+the end of the quiz, tell them how many they got correct
+out of five.
+
+
+What is the sum of 3 and 19? The input for the answer is 10.
+The sum of 3 and 19 is 22.
+Wrong answer.
+
+What is the sum of 14 and 10? The input for the answer is 20.
+The sum of 14 and 10 is 24.
+Wrong answer.
+
+What is the sum of 15 and 0? The input for the answer is 30.
+The sum of 15 and 0 is 15.
+Wrong answer.
+
+What is the sum of 1 and 7? The input for the answer is 15.
+The sum of 1 and 7 is 8.
+Wrong answer.
+
+What is the sum of 3 and 17? The input for the answer is 25.
+The sum of 3 and 17 is 20.
+Wrong answer.
+
+Your score is 0 out of 5.
